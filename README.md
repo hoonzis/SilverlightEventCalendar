@@ -6,4 +6,4 @@ This is a very lightweight event calendar control for Silverlight and WPF. It ca
 - It is stylable. DataTemplate can be defined for every event which is added to the collection.
 - It is based on standard Calendar control.
 
-For more information about how to use it and how it is done, reffer to my blog: http://hoonzis.blogspot.fr/2011/06/silverlight-event-calendar.html
+For more information about how to use it and how it is done, [refer to my blog](http://www.hoonzis.com/silverlight-event-calendar/)
